@@ -1,0 +1,2547 @@
+[
+    {
+        "id": "0",
+        "speaker": "Neji Hyuuga",
+        "phrase": "The difference between stupidity and genius, is that genius has its limits."
+    },
+    {
+        "id": "1",
+        "speaker": "Gaara",
+        "phrase": "It's not because I'm lazy, it's just because I don't care."
+    },
+    {
+        "id": "2",
+        "speaker": "Hatake Kakashi",
+        "phrase": "A place where someone still thinks about you is a place you can call home."
+    },
+    {
+        "id": "3",
+        "speaker": "Orochimaru",
+        "phrase": "Regardless of our limitations, even our insignificant power may be enough to determine the fate of the world. Which is why everyone must stay alert and ready to strike at any moment!"
+    },
+    {
+        "id": "4",
+        "speaker": "Shimura Danzo",
+        "phrase": "Emotion leads one to hate... and hate leads one to conflict and war."
+    },
+    {
+        "id": "5",
+        "speaker": "Itachi Uchiha",
+        "phrase": "Love is the reason why there is pain. When we lose someone precious to us, it is a cycle of hatred that will not cease. You and I seek the same thing that Jiraiya-sensei wanted. Let me ask you this: How will you confront this hatred in order to create peace?"
+    },
+    {
+        "id": "6",
+        "speaker": "Orochimaru",
+        "phrase": "I could say I'm not sad, so I can't lie around crying about it either."
+    },
+    {
+        "id": "7",
+        "speaker": "Sai",
+        "phrase": "The best way to escape reality without running is smiling even if it is obviously fake."
+    },
+    {
+        "id": "8",
+        "speaker": "Kimimaro",
+        "phrase": "Lets see, how should I kill you?"
+    },
+    {
+        "id": "9",
+        "speaker": "Hatake Kakashi",
+        "phrase": "I will show you my own move."
+    },
+    {
+        "id": "10",
+        "speaker": "Haku",
+        "phrase": "I'm sure that the boy I killed, must also have grown up knowing the pain of which I speak. We are special. We are powerful. And we are feared."
+    },
+    {
+        "id": "11",
+        "speaker": "Gaara",
+        "phrase": "There are no enemies here because we've all suffered at Akatsuki's hand! So there is no Suna, and no Kumo! There are only shinobi!"
+    },
+    {
+        "id": "12",
+        "speaker": "Anko Mitarashi",
+        "phrase": "*to Orochimaru* This is no time to reminisce, Sensei?"
+    },
+    {
+        "id": "13",
+        "speaker": "Shino Aburame",
+        "phrase": "This is what a real trump card is."
+    },
+    {
+        "id": "14",
+        "speaker": "Nara Shikamaru",
+        "phrase": "You would think just this once, I could pull through."
+    },
+    {
+        "id": "15",
+        "speaker": "Tenten",
+        "phrase": "I want to be a great and powerful ninja! To walk in the footsteps of the legendary kunoichi, Tsunade!"
+    },
+    {
+        "id": "16",
+        "speaker": "Zabuza Momochi",
+        "phrase": "I can't think of a more fitting destination for a demon ninja, I fear you're in for a long and very painful eternity!"
+    },
+    {
+        "id": "17",
+        "speaker": "Kankuro",
+        "phrase": "Naruto... please save my little brother."
+    },
+    {
+        "id": "18",
+        "speaker": "Kabuto Yakushi",
+        "phrase": "*to Naruto* You've just thrown it all away! Dreams don't come true when you're dead!"
+    },
+    {
+        "id": "19",
+        "speaker": "Jiraiya",
+        "phrase": "The true measure of a shinobi is not how he lives, but how he dies."
+    },
+    {
+        "id": "20",
+        "speaker": "Neji Hyuuga",
+        "phrase": "The curse represents a mark of the bird in a cage... It is... the symbol of being tied down to an inescapable destiny."
+    },
+    {
+        "id": "21",
+        "speaker": "Hatake Kakashi",
+        "phrase": "*to Pain* The people from this village are different from your average village. Even if it means dying, who would sell out a comrade."
+    },
+    {
+        "id": "22",
+        "speaker": "Sakura Haruno",
+        "phrase": "*talking to Yamato* Same as always... I can only do the dumbest of things for Naruto..."
+    },
+    {
+        "id": "23",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "Hey, I'll take your chakra! You got that?!"
+    },
+    {
+        "id": "24",
+        "speaker": "Hatake Kakashi",
+        "phrase": "Because you're the only shinobi in the world who can surpass the Fourth. Thats what I believe."
+    },
+    {
+        "id": "25",
+        "speaker": "Hatake Kakashi",
+        "phrase": "To know what is right and choose to ignore it is the act of a coward."
+    },
+    {
+        "id": "26",
+        "speaker": "Shino Aburame",
+        "phrase": "Trying to improve by learning from others that is what calls friendship."
+    },
+    {
+        "id": "27",
+        "speaker": "Itachi Uchiha",
+        "phrase": "Those who forgive themselves, and are able to accept their true nature... They are the strong ones!"
+    },
+    {
+        "id": "28",
+        "speaker": "Rock Lee",
+        "phrase": "Stop it! How dare you disrespect an opponent that fought you with all he had!?"
+    },
+    {
+        "id": "29",
+        "speaker": "Genma Shiranui",
+        "phrase": "When captured birds grow wiser, because they want to fly again."
+    },
+    {
+        "id": "30",
+        "speaker": "Gaara",
+        "phrase": "Just because someone is important to you, that person is good. Even if you knew that person was evil... People cannot win against their loneliness."
+    },
+    {
+        "id": "31",
+        "speaker": "Pain",
+        "phrase": "Even the most ignorant, what they think… and they become real people. "
+    },
+    {
+        "id": "32",
+        "speaker": "Neji Hyuuga",
+        "phrase": "Fear. That is what we live with. And we live it everyday. Only in death are we free of it."
+    },
+    {
+        "id": "33",
+        "speaker": "Itachi Uchiha",
+        "phrase": "Even the strongest of opponents always has a weakness."
+    },
+    {
+        "id": "34",
+        "speaker": "Gaara",
+        "phrase": "We have walked through the darkness of this world, that’s why we are able to see even a sliver of light."
+    },
+    {
+        "id": "35",
+        "speaker": "Jiraiya",
+        "phrase": "Rejection is a part of any man’s life. If you can’t accept and move past rejection, or at least use it as writing material - you’re not a real man. "
+    },
+    {
+        "id": "36",
+        "speaker": "Nara Shikamaru",
+        "phrase": "It’s because we help out when they’re in trouble that we can count on them to come running when we need it."
+    },
+    {
+        "id": "37",
+        "speaker": "Nagato",
+        "phrase": "If you don't share someone's pain. You can never understand them."
+    },
+    {
+        "id": "38",
+        "speaker": "Pain",
+        "phrase": "Love breeds sacrifice... which in turn breeds hatred. Then you can know pain."
+    },
+    {
+        "id": "39",
+        "speaker": "Sasuke Uchiha",
+        "phrase": "Tears and rain, my body is unable to stay yet my heart is unwilling to leave."
+    },
+    {
+        "id": "40",
+        "speaker": "Tobirama Senju",
+        "phrase": "Grown-ups are idiots. If they really want to bring an end to this endless fighting, they need to sit down with one another and reach a truce."
+    },
+    {
+        "id": "41",
+        "speaker": "Hatake Kakashi",
+        "phrase": "I've been around longer than you have, it's not that bad. At least you and I have been lucky enough to find new comrades to help fill the void."
+    },
+    {
+        "id": "42",
+        "speaker": "Nara Shikamaru",
+        "phrase": "Laziness is the mother of all bad habits. But ultimately she is a mother and we should respect her."
+    },
+    {
+        "id": "43",
+        "speaker": "Hatake Kakashi",
+        "phrase": "If comrades that you trust gather around you, hope can take physical form and become visible. That's what I believe..."
+    },
+    {
+        "id": "44",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "Because they saved me from myself, they rescued me from my loneliness. They were the first to accept me for who I am. They're my friends."
+    },
+    {
+        "id": "45",
+        "speaker": "Itachi Uchiha",
+        "phrase": "Kabuto: Isn't acknowledging what you can't do the same as giving up?"
+    },
+    {
+        "id": "46",
+        "speaker": "Hatake Kakashi",
+        "phrase": "Itachi: No, it means to forgive yourself for what you aren't able to do. Your comrades are there to make up for what you cannot do and to prevent you from ignoring things that you actually might have been able to do."
+    },
+    {
+        "id": "47",
+        "speaker": "Itachi Uchiha",
+        "phrase": "Once you question your own belief, it's over."
+    },
+    {
+        "id": "48",
+        "speaker": "Haku",
+        "phrase": "Forget about revenge. The fate of those who seek revenge is grim. It's tragic, the only thing that remains is emptiness."
+    },
+    {
+        "id": "49",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "He who forgives and acknowledges himself... that is what it truly means to be strong!"
+    },
+    {
+        "id": "50",
+        "speaker": "Pain",
+        "phrase": "It is only through the eyes of others that our lives have any meaning."
+    },
+    {
+        "id": "51",
+        "speaker": "Ōnoki",
+        "phrase": "Don't underestimate me! I don't quit and I don't run! You can act tough all you want! You're not gonna scare me off! No way! I don't care if I DO get stuck as a Genin for the rest of my life! I'll still be Hokage someday!"
+    },
+    {
+        "id": "52",
+        "speaker": "Itachi Uchiha",
+        "phrase": "Just by living, hate will also exist. There is no peace in this cursed world. War is just a crime paid for by the pain of the defeated..."
+    },
+    {
+        "id": "53",
+        "speaker": "Itachi Uchiha",
+        "phrase": "Never give up without even trying. Do what you can, no matter how small the effect it may have!"
+    },
+    {
+        "id": "54",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "I'll admit that you're stronger than before. But because of that, you can become Hokage. Never forget your friends!"
+    },
+    {
+        "id": "55",
+        "speaker": "Obito Uchiha",
+        "phrase": "The ones who aren't able to acknowledge their own selves are bound to fail."
+    },
+    {
+        "id": "56",
+        "speaker": "Madara Uchiha",
+        "phrase": "People who continue to put their lives on the line to defend their faith become heroes and continue to exist on in legend."
+    },
+    {
+        "id": "57",
+        "speaker": "Itachi Uchiha",
+        "phrase": "No one cared who I was until I put on a mask."
+    },
+    {
+        "id": "58",
+        "speaker": "Choji Akamichi",
+        "phrase": "....Would you consider dying together Teamwork as well?"
+    },
+    {
+        "id": "59",
+        "speaker": "Gaara",
+        "phrase": "People's lives don't end when they die. It ends when they lose faith."
+    },
+    {
+        "id": "60",
+        "speaker": "Gaara",
+        "phrase": "You can steal the very last bite of my very best food. You can mock me all you want. But if you insult my best friend, I will obliterate you."
+    },
+    {
+        "id": "61",
+        "speaker": "Nara Shikamaru",
+        "phrase": "Three times now... We've fought world wars for our own nations, and I want to protect our world! But I'm too young to protect it all on my own! All of you lend me your aid!"
+    },
+    {
+        "id": "62",
+        "speaker": "Might Guy",
+        "phrase": "Now there's something I understand a little better. Hate, even joy. To be able to share it with another person... Naruto Uzumaki. From fighting him I learned that. He knew pain like I did and then he taught me that you can change your path. I wish that one day I can be needed by someone. Not as a frightening weapon... But as the sand's Kazekage."
+    },
+    {
+        "id": "63",
+        "speaker": "Gaara",
+        "phrase": "Family? Let me tell you what kind of link I have with them. They are just lumps of meat linked by hatred and murderous intent!"
+    },
+    {
+        "id": "64",
+        "speaker": "Sasuke Uchiha",
+        "phrase": "I understand now. Even if I must take the devil's fruit, I must gain power. I am an avenger."
+    },
+    {
+        "id": "65",
+        "speaker": "Obito Uchiha",
+        "phrase": "I'm no one. I don't want to be anyone. All I care about is completing the moon's eye plan. This world is completely worthless. There is nothing left in it but misery."
+    },
+    {
+        "id": "66",
+        "speaker": "Orochimaru",
+        "phrase": "Either people change or they die before they do. It's one or the other."
+    },
+    {
+        "id": "67",
+        "speaker": "Kimimaro",
+        "phrase": "Humans... Do humans have a purpose when they are born? I have been wondering recently. Because they are born, do they have an important duty? The meaning of being born... For humans to find that answer... It is the one freedom God gave them."
+    },
+    {
+        "id": "68",
+        "speaker": "Sasuke Uchiha",
+        "phrase": "I have told you before, Chunin or whatever. 'Am I strong?' that's the answer I want."
+    },
+    {
+        "id": "69",
+        "speaker": "Itachi Uchiha",
+        "phrase": "The village does have its dark side and its inconsistencies, but I'm still Konoha's Itachi Uchiha."
+    },
+    {
+        "id": "70",
+        "speaker": "Madara Uchiha",
+        "phrase": "Wake up to reality! Nothing ever goes as planned in this world. The longer you live, suffering and futility exist."
+    },
+    {
+        "id": "71",
+        "speaker": "Tobi",
+        "phrase": "It's too late to regret. Reality is just cruelly moving forward."
+    },
+    {
+        "id": "72",
+        "speaker": "Madara Uchiha",
+        "phrase": "Man seeks peace, yet at the same time yearning for war... Those are the two realms belonging solely to man. Thinking of peace whilst spilling blood is something that only humans could do. They're two sides of the same coin... to protect something... another must be sacrificed."
+    },
+    {
+        "id": "73",
+        "speaker": "Pain",
+        "phrase": "People are stupid. If I don't do this, peace will come again. It will give birth to short period of peace within this endless chain of hatred. That's my wish."
+    },
+    {
+        "id": "74",
+        "speaker": "Pain",
+        "phrase": "When you give up, they're gone."
+    },
+    {
+        "id": "75",
+        "speaker": "Madara Uchiha",
+        "phrase": "Pain is the way to bring peace."
+    },
+    {
+        "id": "76",
+        "speaker": "Jiraiya",
+        "phrase": "Power is not will, it is the phenomenon of physically making things happen."
+    },
+    {
+        "id": "77",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "Sometimes you must hurt in order to know, lose in order to gain because life's greatest lessons are learned through pain."
+    },
+    {
+        "id": "78",
+        "speaker": "Hatake Kakashi",
+        "phrase": "Don't improvise what you cannot handle."
+    },
+    {
+        "id": "79",
+        "speaker": "Itachi Uchiha",
+        "phrase": "Those who cannot acknowledge themselves, will eventually fail."
+    },
+    {
+        "id": "80",
+        "speaker": "Orochimaru",
+        "phrase": "Even children are forced to grow up in the face of pain."
+    },
+    {
+        "id": "81",
+        "speaker": "Hatake Kakashi",
+        "phrase": "It's human nature not to realize the true value of something, unless they lose it."
+    },
+    {
+        "id": "82",
+        "speaker": "Madara Uchiha",
+        "phrase": "In society, tend to complain more."
+    },
+    {
+        "id": "83",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "Talking about peace whilst spilling blood, it's something that only humans can do."
+    },
+    {
+        "id": "84",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "If you don't like the hand that fate's dealt you with, fight for a new one!"
+    },
+    {
+        "id": "85",
+        "speaker": "Jiraiya",
+        "phrase": "The pain of being alone is completely out of this world, it actually hurts."
+    },
+    {
+        "id": "86",
+        "speaker": "Hatake Kakashi",
+        "phrase": "Getting dumped always makes a man stronger. But then again, men aren't meant to pursue happiness."
+    },
+    {
+        "id": "87",
+        "speaker": "Rock Lee",
+        "phrase": "The hole in one's heart gets filled by others around you. Friends won't flock to someone who abandons the memory of his friends and gives up on the world just because things don't go the way he wants them to. That won't help fill the hole in your heart. And people won't help those who run away and do nothing. As long as you don't give up, there will always be salvation."
+    },
+    {
+        "id": "88",
+        "speaker": "Tobi",
+        "phrase": "If you believe in your dreams, that you can achieve your dreams just by working hard."
+    },
+    {
+        "id": "89",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "Not one wish ever gets granted in this world."
+    },
+    {
+        "id": "90",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "If you don't like your destiny, have the courage to change it the way you want it to be!"
+    },
+    {
+        "id": "91",
+        "speaker": "Nara Shikamaru",
+        "phrase": "When people are protecting something truly special to them, they truly can become... as strong as they can be."
+    },
+    {
+        "id": "92",
+        "speaker": "Itachi Uchiha",
+        "phrase": "There's no advantage to hurrying through life."
+    },
+    {
+        "id": "93",
+        "speaker": "Jiraiya",
+        "phrase": "No single thing is perfect by itself. That's why we're born to attract other things to make up for what we lack. I think we start walking in the right direction only after we start getting our counterparts beside us."
+    },
+    {
+        "id": "94",
+        "speaker": "Nara Shikamaru",
+        "phrase": "Knowing what it feels to be in pain, is exactly why we try to be kind to others."
+    },
+    {
+        "id": "95",
+        "speaker": "Ohnoki",
+        "phrase": "It's stupid to talk about things you're not. Be yourself and you'll be fine."
+    },
+    {
+        "id": "96",
+        "speaker": "Nara Shikamaru",
+        "phrase": "It's because I've experienced pain in the past, that I can even consider what would be best for the future!"
+    },
+    {
+        "id": "97",
+        "speaker": "Sakura Haruno",
+        "phrase": "Every one of us must do what's in their power! If we're going to die anyway, then it's better to die fighting than to do nothing!"
+    },
+    {
+        "id": "98",
+        "speaker": "Itachi Uchiha",
+        "phrase": "Now I feel that maybe knowing who I actually am is the key to reach perfection. Because that means knowing what I can and cannot do."
+    },
+    {
+        "id": "99",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "When people have different opinions, you should apply the majority vote."
+    },
+    {
+        "id": "100",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "Failing doesn't give you a reason to give up as long as you believe."
+    },
+    {
+        "id": "101",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "If the father's responsibility is to protect the child... then my responsibility is to exceed the father."
+    },
+    {
+        "id": "102",
+        "speaker": "Sai",
+        "phrase": "It's because Sakura loves Sasuke that she doesn't want him to sink any lower. It's because she loves him that she wants to rescue him from the evil path he currently walks. Even if the only way to do it is to kill him with her own two hands, she's prepared to do it because she loves him."
+    },
+    {
+        "id": "103",
+        "speaker": "Neji Hyuuga",
+        "phrase": "People share only one common fate... death."
+    },
+    {
+        "id": "104",
+        "speaker": "Shikaku Nara",
+        "phrase": "Legends from the distant past are always exaggerated, someone outdoes them... that's when new legends are born!"
+    },
+    {
+        "id": "105",
+        "speaker": "Gamabunta",
+        "phrase": "What's your wish? Peace? Money? Or the world? Whatever you wish for, it's something you have to get with your own strength!"
+    },
+    {
+        "id": "106",
+        "speaker": "Sakura Haruno",
+        "phrase": "The things that are most important aren't written in books. You have to learn them by experiencing them yourself."
+    },
+    {
+        "id": "107",
+        "speaker": "Nara Shikamaru",
+        "phrase": "Someday, and spend the rest of my life playing shōgi or Go. Then die of old age before my wife."
+    },
+    {
+        "id": "108",
+        "speaker": "Itachi Uchiha",
+        "phrase": "Self-sacrifice... A nameless shinobi who protects peace within its shadow. That is a true shinobi."
+    },
+    {
+        "id": "109",
+        "speaker": "Yashamaru",
+        "phrase": "Love is... care and devotion you feel for the precious ones around you."
+    },
+    {
+        "id": "110",
+        "speaker": "Hiruzen Sarutobi",
+        "phrase": "It doesn't matter what you do, remember to protect the people that are precious to you."
+    },
+    {
+        "id": "111",
+        "speaker": "Nara Shikamaru",
+        "phrase": "In life, nothing good comes out of hurrying."
+    },
+    {
+        "id": "112",
+        "speaker": "Jirobou",
+        "phrase": "I don't know which is more pathetic; the fool, or those who follow him."
+    },
+    {
+        "id": "113",
+        "speaker": "Sasori",
+        "phrase": "What's the point of something that disappears as soon as it's born?"
+    },
+    {
+        "id": "114",
+        "speaker": "Sai",
+        "phrase": "A smile is the best way to get oneself out of a tight spot, everyone takes it at face value."
+    },
+    {
+        "id": "115",
+        "speaker": "Nagato",
+        "phrase": "War brings death. And wounds and pain to both sides. There's nothing harder to accept, than the deaths of those you love. So you believe they could never die. Especially those who haven't known war."
+    },
+    {
+        "id": "116",
+        "speaker": "Jiraiya",
+        "phrase": "A person grows up when he's able to overcome hardships. Protection is important, but there are some things that a person must learn on his own."
+    },
+    {
+        "id": "117",
+        "speaker": "Chouji Akimichi",
+        "phrase": "True beauty lies in things that last forever, never rotting or fading."
+    },
+    {
+        "id": "118",
+        "speaker": "Itachi Uchiha",
+        "phrase": "People become stronger because they have things they cannot forget. That's what you call growth."
+    },
+    {
+        "id": "119",
+        "speaker": "Hatake Kakashi",
+        "phrase": "[talking about food] The last bite. It is the final one, I will not give it up."
+    },
+    {
+        "id": "120",
+        "speaker": "Might Guy",
+        "phrase": "Peace under an illusion is not true peace. It's only meaningful if the real world manages to accomplish it."
+    },
+    {
+        "id": "121",
+        "speaker": "Hatake Kakashi",
+        "phrase": "My power isn't the Rasengan or Sage Jutsu or the Nine Tails chakra. My power is right here. [points to the center of his chest]"
+    },
+    {
+        "id": "122",
+        "speaker": "Gaara",
+        "phrase": "It's never been The one who becomes Hokage will be acknowledge by everyone, becomes the Hokage."
+    },
+    {
+        "id": "123",
+        "speaker": "Obito Uchiha",
+        "phrase": "In the shinobi world, those that break the written and unwritten rules are deemed trash... but be that as it may... Those that would desregard their comrades so easily are even worse than trash. And those who don't have the decency to respect the memories of their comrades are the worst."
+    },
+    {
+        "id": "124",
+        "speaker": "Jiraiya",
+        "phrase": "If you want to be free from your suffering, you will suffer more."
+    },
+    {
+        "id": "125",
+        "speaker": "Itachi Uchiha",
+        "phrase": "I really am... shinobi trash. But the one thing I still learned is this. That void is something that everyone helps you fill. Just because you face adversity and hardships, someone will be there to support you!"
+    },
+    {
+        "id": "126",
+        "speaker": "Madara Uchiha",
+        "phrase": "In order to escape a road of solitude, and forge a new path with their own power."
+    },
+    {
+        "id": "127",
+        "speaker": "Pain",
+        "phrase": "Somewhere inside of me?! Take a good look, cruel world."
+    },
+    {
+        "id": "128",
+        "speaker": "Gaara",
+        "phrase": "Rejection makes a man stronger."
+    },
+    {
+        "id": "129",
+        "speaker": "Zabuza Momochi",
+        "phrase": "Teachings that do not speak of pain have no meaning, for humankind cannot gain anything in return."
+    },
+    {
+        "id": "130",
+        "speaker": "Sakura Haruno",
+        "phrase": "Nine-Tails, you require a guide to show you purpose. That guide is the Uchiha! The tailed beasts are but slaves to those with blessed eyes. Obey!"
+    },
+    {
+        "id": "131",
+        "speaker": "Madara Uchiha",
+        "phrase": "In this world, and hatred is born to protect love."
+    },
+    {
+        "id": "132",
+        "speaker": "Orochimaru",
+        "phrase": "Maybe, you might discover something of value in it."
+    },
+    {
+        "id": "133",
+        "speaker": "Orochimaru",
+        "phrase": "True power is forged from the desire smoldering in the heart, it fans into a flame and begins to burn with an intensity one scarcely imagines to be possible..."
+    },
+    {
+        "id": "134",
+        "speaker": "Pain",
+        "phrase": "We are but men, drawn to act in the name of revenge that we deem to be justice. But... if there is justice in revenge then that same justice will breed only more revenge... and trigger a cycle of hatred."
+    },
+    {
+        "id": "135",
+        "speaker": "Hatake Kakashi",
+        "phrase": "How can you say that you will never change? That you will not change, no matter how great the pain you face? Can you continue believing in yourself forever? Can you guarantee it? Can you have such faith in yourself?!"
+    },
+    {
+        "id": "136",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "Behind this mask is...Another mask! Pretty cool, huh? "
+    },
+    {
+        "id": "137",
+        "speaker": "Gaara",
+        "phrase": "Listen to yourself whining and complaining like some sorry little victim! You can whimper all day for all I care, you're nothing but a coward!"
+    },
+    {
+        "id": "138",
+        "speaker": "Rock Lee",
+        "phrase": "One day I'd like to become something precious to others."
+    },
+    {
+        "id": "139",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "My motto is to be stronger than yesterday, even a minute ago!"
+    },
+    {
+        "id": "140",
+        "speaker": "Itachi Uchiha",
+        "phrase": "While you're alive, you need a reason for your existence. Being unable to find one is the same as being dead."
+    },
+    {
+        "id": "141",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "It is not wise to judge others based on your own preconceptions and by their appearances."
+    },
+    {
+        "id": "142",
+        "speaker": "Pain",
+        "phrase": "It's not the face that makes someone a monster, it's the choices they make with their lives."
+    },
+    {
+        "id": "143",
+        "speaker": "Pain",
+        "phrase": "You think you're the only ones who matter. You think you can put off death. But that peace made you foolish and thoughtless. If you kill someone, someone else will kill you... this hatred binds us together."
+    },
+    {
+        "id": "144",
+        "speaker": "Nara Shikamaru",
+        "phrase": "Do you understand pain a little now? If you don't share someone's pain, you can never understand them. But just because you understand them doesn't mean you can come to an agreement. That's the truth"
+    },
+    {
+        "id": "145",
+        "speaker": "Nara Shikamaru",
+        "phrase": "*To Tayuya* How many times do I have to tell you? The first move is always a feint. It's the most basic thing, to land a hit with the second move."
+    },
+    {
+        "id": "146",
+        "speaker": "Nara Shikamaru",
+        "phrase": "*To Temari* It really doesn't matter to me if I ever become a chūnin or not, so let's do it."
+    },
+    {
+        "id": "147",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "*To himself, I didn't feel like doing this in the first place. And I only became a ninja because I thought life would've been more interesting as one... I suppose things aren't gonna be that simple."
+    },
+    {
+        "id": "148",
+        "speaker": "Nara Shikamaru",
+        "phrase": "I'm the only one who can bear the full brunt of your hate! It's my job, no one else's! I'll bear the burden of your hatred... and we'll die together!"
+    },
+    {
+        "id": "149",
+        "speaker": "Neji Hyuuga",
+        "phrase": "Hinata... this is the unalterable difference in strength... the distinction that separates the elite from the failure. This is the unchangeable reality. From the moment you said you wouldn't run, your defeat was inevitable. The only possible outcome was your present despair... Withdraw!"
+    },
+    {
+        "id": "150",
+        "speaker": "Orochimaru",
+        "phrase": "[To Sarutobi] What nonsense! In the grand scheme of time, the Hokage Stone Faces will crumble and be worn down to nothing..."
+    },
+    {
+        "id": "151",
+        "speaker": "Neji Hyuuga",
+        "phrase": "[To Hinata At Chuunin Exams] So you're not going to withdraw? Then don't blame me for what happens to you."
+    },
+    {
+        "id": "152",
+        "speaker": "Haku",
+        "phrase": "{TO NARUTO} Oh, by the way... I'm a boy"
+    },
+    {
+        "id": "153",
+        "speaker": "Haku",
+        "phrase": "Often people have it wrong, to go on living... alone and unloved... when defeat's already cost you your dream!"
+    },
+    {
+        "id": "154",
+        "speaker": "Gaara",
+        "phrase": "Bitter crimson tears flow from lifeless eyes, and mingle with the endless sands... Bestowing ever greater power upon the demon god."
+    },
+    {
+        "id": "155",
+        "speaker": "Orochimaru",
+        "phrase": "Darkness. When everything that you know and love is taken away from you so harshly. All you can think about is anger, hatred and even revenge. And no one can save you."
+    },
+    {
+        "id": "156",
+        "speaker": "Nara Shikamaru",
+        "phrase": "He turned a room full of strangers into a room full of enemies with just one sentence."
+    },
+    {
+        "id": "157",
+        "speaker": "Itachi Uchiha",
+        "phrase": "True Change cannot be made if it is bound by laws and limitations, predictions and imagination."
+    },
+    {
+        "id": "158",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "If we fight again... We're both gonna die."
+    },
+    {
+        "id": "159",
+        "speaker": "Tenten",
+        "phrase": "The weaker you are the louder you bark."
+    },
+    {
+        "id": "160",
+        "speaker": "Pain",
+        "phrase": "Religion, it's enough to start a war."
+    },
+    {
+        "id": "161",
+        "speaker": "Pain",
+        "phrase": "Human nature pursues strife."
+    },
+    {
+        "id": "162",
+        "speaker": "Jiraiya",
+        "phrase": "All the girls in Konoha are so hot these days."
+    },
+    {
+        "id": "163",
+        "speaker": "Yashamaru",
+        "phrase": "A wound of a heart is different from a flesh wound. Unlike a flesh wound, and there are times when they never heal."
+    },
+    {
+        "id": "164",
+        "speaker": "Pain",
+        "phrase": "Justice comes from vengeance, but that justice only breeds more vengeance."
+    },
+    {
+        "id": "165",
+        "speaker": "Itachi Uchiha",
+        "phrase": "Any technique is worthless before my eyes."
+    },
+    {
+        "id": "166",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "I will become a bigger badass than my father. And a stronger shinobi than my mother!"
+    },
+    {
+        "id": "167",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "To become Hokage is my dream!"
+    },
+    {
+        "id": "168",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "So shut up about destiny and...how people can't change! 'Cause... unlike me... you're not a failure."
+    },
+    {
+        "id": "169",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "Sasuke! Sasuke! Sasuke! What does he have that I don't have?!"
+    },
+    {
+        "id": "170",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "Sasuke, I still thought this way. I always tried to lie but... but the truth is... I always wanted to be like you. I aspired to be like you. Because of that... I was glad that you wanted to fight me."
+    },
+    {
+        "id": "171",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "When I'm with Iruka-sensei, I think if that's what having a brother is like."
+    },
+    {
+        "id": "172",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "Sakura-chan, don't you?"
+    },
+    {
+        "id": "173",
+        "speaker": "Might Guy",
+        "phrase": "DYNAMIC ENTRY!"
+    },
+    {
+        "id": "174",
+        "speaker": "Kisame Hoshigaki",
+        "phrase": "[after learning Guy Sensei's name. Might Guy] Yeah, mighty stupid looking guy!"
+    },
+    {
+        "id": "175",
+        "speaker": "Kisame Hoshigaki",
+        "phrase": "Hmhmhmhm, I think I will play with you a bit before killing you!"
+    },
+    {
+        "id": "176",
+        "speaker": "Kisame Hoshigaki",
+        "phrase": "Hmm... Itachi... it would be annoying if he moved around a lot. Perhaps we should cut off a leg or two?"
+    },
+    {
+        "id": "177",
+        "speaker": "Kisame Hoshigaki",
+        "phrase": "I'll enjoy shaving you to death."
+    },
+    {
+        "id": "178",
+        "speaker": "Kisame Hoshigaki",
+        "phrase": "Konoha's Uchiha clan and the Mist's Seven Shinobi-gatana seem petty before his name."
+    },
+    {
+        "id": "179",
+        "speaker": "Kimimaro",
+        "phrase": "Against the power of will I posses... The capability of my body is nothing."
+    },
+    {
+        "id": "180",
+        "speaker": "Kimimaro",
+        "phrase": "[after Naruto does his Shadow Clone Jutsu] Oh, trash is just trash after all. It simply needs to be cleaned up."
+    },
+    {
+        "id": "181",
+        "speaker": "Kimimaro",
+        "phrase": "I don't hate the darkness. It was IN the darkness that I was raised."
+    },
+    {
+        "id": "182",
+        "speaker": "Kimimaro",
+        "phrase": "I've been wondering... There must be a purpose for people being born into this world. Why are we here? What does it mean? I've been thinking about it a lot lately. I realized that finding our purpose IS the meaning. That's why we're here. And the ones who find it... They're the only ones who are truly free."
+    },
+    {
+        "id": "183",
+        "speaker": "Kimimaro",
+        "phrase": "*referring to Orochimaru* I am not his pawn..! He is the one, the only one who ever gave my life meaning!! But how could the likes of you EVER UNDERSTAND THAT?!?"
+    },
+    {
+        "id": "184",
+        "speaker": "Kimimaro",
+        "phrase": "I will see the truth of this world... LORD OROCHIMARU WILL SHOW ME!!!"
+    },
+    {
+        "id": "185",
+        "speaker": "Kimimaro",
+        "phrase": "I see...since I am no longer going to be Lord Orochimaru's vessel, my duty is to protect the vessel."
+    },
+    {
+        "id": "186",
+        "speaker": "Kimimaro",
+        "phrase": "You've only seen one of my dances."
+    },
+    {
+        "id": "187",
+        "speaker": "Kimimaro",
+        "phrase": "[to the Sound Ninja Four] Which do you prefer? To die, or to obey?"
+    },
+    {
+        "id": "188",
+        "speaker": "Kimimaro",
+        "phrase": "Is there really a god? If there is one, why does he keep me confined in here?"
+    },
+    {
+        "id": "189",
+        "speaker": "Kimimaro",
+        "phrase": "If Tayuya comes back, I'll kill her."
+    },
+    {
+        "id": "190",
+        "speaker": "Kiba Inuzuka",
+        "phrase": "Akamaru, there has to be a part of you that remembers. Show me that you remember. AKAMARU! Forgive me. Can you? I know that I've brought you nothing but pain and suffering. I broke my word. I swore I'd always protect you. Akamaru I'm sorry. Sorry I wasn't a better master. I'm here. Here for you. Forever."
+    },
+    {
+        "id": "191",
+        "speaker": "Kiba Inuzuka",
+        "phrase": "I called you an idiot, idiot!"
+    },
+    {
+        "id": "192",
+        "speaker": "Kiba Inuzuka",
+        "phrase": "It's not bad enough they buried us alive in the oversized dung heap, but now they're stealing our chakra. You gotta give these guys credit for thoroughness!"
+    },
+    {
+        "id": "193",
+        "speaker": "Kiba Inuzuka",
+        "phrase": "A wall's a wall and there's no wall I can't punch a hole through!"
+    },
+    {
+        "id": "194",
+        "speaker": "Kiba Inuzuka",
+        "phrase": "Hinata, untie the ropes before you faint."
+    },
+    {
+        "id": "195",
+        "speaker": "Kiba Inuzuka",
+        "phrase": "I must be a pretty pathetic owner for you to have bitten me, Akamaru...."
+    },
+    {
+        "id": "196",
+        "speaker": "Kankuro",
+        "phrase": "A fair warning... we ninja of the Sand aren't as easygoing as those of the Leaf. But getting close to Kuroari so carelessly...isn't good!"
+    },
+    {
+        "id": "197",
+        "speaker": "Kankuro",
+        "phrase": "[Thinking] What a sucker. He doesn't know I can re-establish control over my puppet within a blink of an eye. It's what makes me an expert puppet master. And so what if Crow's body is out of commission? I don't need his body. Every part of him is a lethal weapon. [To Shino] Looks like you underestimated me, so you're dead."
+    },
+    {
+        "id": "198",
+        "speaker": "Kankuro",
+        "phrase": "You tick me off. I hate short people anyway. And you're so impertinent for someone younger than me. It makes me want to break you."
+    },
+    {
+        "id": "199",
+        "speaker": "Kankuro",
+        "phrase": "But I want to play around before some noisy people come!"
+    },
+    {
+        "id": "200",
+        "speaker": "Hatake Kakashi",
+        "phrase": "Gai...what I said earlier...I was out of line. I was being a self-righteous fool. I realize now that if I'd been in your shoes, either."
+    },
+    {
+        "id": "201",
+        "speaker": "Hatake Kakashi",
+        "phrase": "I don't know what this boy means to you, but I shouldn't have to tell you that we never bring our personal feelings into play. I didn't think you were capable of it."
+    },
+    {
+        "id": "202",
+        "speaker": "Hatake Kakashi",
+        "phrase": "I've lived longer than you. And times have been bad. I know the pain of loss. You and I haven't really been fortunate. It's true. But it could be worse. For me, you should understand."
+    },
+    {
+        "id": "203",
+        "speaker": "Hatake Kakashi",
+        "phrase": "Sorry I'm late. You wouldn't believe the traffic."
+    },
+    {
+        "id": "204",
+        "speaker": "Hatake Kakashi",
+        "phrase": "Sorry I'm late guys, a black cat crossed my path so I had to go the long way."
+    },
+    {
+        "id": "205",
+        "speaker": "Hatake Kakashi",
+        "phrase": "[thinking] If I'm still sane by the time I finish their training it'll be a miracle!"
+    },
+    {
+        "id": "206",
+        "speaker": "Hatake Kakashi",
+        "phrase": "A ninja must see underneath the underneath."
+    },
+    {
+        "id": "207",
+        "speaker": "Hatake Kakashi",
+        "phrase": "Leaf Village Secret-Finger Justu...1,000 Years of Death!!! *sticks his fingers up Naruto's ass*"
+    },
+    {
+        "id": "208",
+        "speaker": "Hatake Kakashi",
+        "phrase": "Hmmm...how do I put this? My first impression of this group...you're a bunch of idiots!"
+    },
+    {
+        "id": "209",
+        "speaker": "Kabuto Yakushi",
+        "phrase": "[about the inefficacy of his attack against Tsunade] Did it not penetrate deep enough because of her fat breasts?"
+    },
+    {
+        "id": "210",
+        "speaker": "Kabuto Yakushi",
+        "phrase": "The more you want something, the harder it is to wait for it."
+    },
+    {
+        "id": "211",
+        "speaker": "Kabuto Yakushi",
+        "phrase": "Mm, she's strong and scary. I bet she's single."
+    },
+    {
+        "id": "212",
+        "speaker": "Iruka Umino",
+        "phrase": "[About Naruto] Well that's typical. Not happy unless he's giving people a heart attack."
+    },
+    {
+        "id": "213",
+        "speaker": "Iruka Umino",
+        "phrase": "[when Naruto transforms into a woman in front of the whole class] CUT THE STUPID TRICKS! THIS IS YOUR LAST WARNING!!"
+    },
+    {
+        "id": "214",
+        "speaker": "Iruka Umino",
+        "phrase": "[as a child] Why should I be sad?! My parents died protecting the village from the monster fox. They're heroes, it's because I'm happy! I'm not even sad that they went and left me all alone..."
+    },
+    {
+        "id": "215",
+        "speaker": "Iruka Umino",
+        "phrase": "I hate the fox, but the boy - I don't hate the boy."
+    },
+    {
+        "id": "216",
+        "speaker": "Iruka Umino",
+        "phrase": "It seems like the small leaves in the Village of Konoha have inherited that will of fire you spoke of, Third. The fire on the leaves will eventually burn greater and stronger... It will flash its light and protect this village."
+    },
+    {
+        "id": "217",
+        "speaker": "Iruka Umino",
+        "phrase": "When a person dies, lovers... people who are important to you. They trust and help each other. The bond between the people important to you ever since birth and the string that binds them becomes thicker and stronger as time goes by... It's beyond reason. Those bound to you by that string will do that because it is important."
+    },
+    {
+        "id": "218",
+        "speaker": "Ino Yamanaka",
+        "phrase": "Billboard brow!!!"
+    },
+    {
+        "id": "219",
+        "speaker": "Ino Yamanaka",
+        "phrase": "Oh, though. Those can be quite poisonous."
+    },
+    {
+        "id": "220",
+        "speaker": "Ino Yamanaka",
+        "phrase": "I believe you have the potential to bloom into something even more beautiful than the cosmos."
+    },
+    {
+        "id": "221",
+        "speaker": "Haku",
+        "phrase": "I am of no more use as his tool. Please, kill me."
+    },
+    {
+        "id": "222",
+        "speaker": "Haku",
+        "phrase": "Often people have it wrong, mistakenly believing...that showing mercy to an enemy is kindness. They spare the foe whose life is in their hands... But don't you see? It's an empty existence... to go on living... alone and unloved... when defeat's already cost you your dream!"
+    },
+    {
+        "id": "223",
+        "speaker": "Haku",
+        "phrase": "Can you understand? Not having a dream... not being needed by anyone... The pain of merely being alive."
+    },
+    {
+        "id": "224",
+        "speaker": "Haku",
+        "phrase": "That is when I realized that in all of the world no one needed me. I was alone."
+    },
+    {
+        "id": "225",
+        "speaker": "Haku",
+        "phrase": "I want to make his dreams come true..."
+    },
+    {
+        "id": "226",
+        "speaker": "Haku",
+        "phrase": "Is there... somebody precious to you?"
+    },
+    {
+        "id": "227",
+        "speaker": "Gaara",
+        "phrase": "I took the life of the woman I was supposed to call mother in the process of being born... in order to become the world's strongest shinobi... I became the incarnation of sand..."
+    },
+    {
+        "id": "228",
+        "speaker": "Gaara",
+        "phrase": "It's too bad I don't think of you as anything. If you get in my way... I'll kill you."
+    },
+    {
+        "id": "229",
+        "speaker": "Gaara",
+        "phrase": "BLOOOOOOOOOOOOOOOD!!! MY BLOOOOOOOOOOOOOD!!!"
+    },
+    {
+        "id": "230",
+        "speaker": "Gaara",
+        "phrase": "You can make a rain of 1,000 needles. I will make it rain blood."
+    },
+    {
+        "id": "231",
+        "speaker": "Gaara",
+        "phrase": "People cannot win against their loneliness."
+    },
+    {
+        "id": "232",
+        "speaker": "Chouji Akimichi",
+        "phrase": "[When Ino visits him in the hospital] Hehe. I'm also the type that gets girls to visit him. Take that, Shikamaru!"
+    },
+    {
+        "id": "233",
+        "speaker": "Chouji Akimichi",
+        "phrase": "I'm not fat, I'm pleasingly plump!"
+    },
+    {
+        "id": "234",
+        "speaker": "Chouji Akimichi",
+        "phrase": "This punch is heavier than life itself!"
+    },
+    {
+        "id": "235",
+        "speaker": "Chouji Akimichi",
+        "phrase": "Chubbies rule!"
+    },
+    {
+        "id": "236",
+        "speaker": "Anko Mitarashi",
+        "phrase": "Time's a-wastin' people, let's go!"
+    },
+    {
+        "id": "237",
+        "speaker": "Itachi Uchiha",
+        "phrase": "You're such a child. You talk of nothing but pipe dreams... there are times when people must make painful choices."
+    },
+    {
+        "id": "238",
+        "speaker": "Temari",
+        "phrase": "*about Shikamaru* Amazing. This slacker-clown outsmarted me!"
+    },
+    {
+        "id": "239",
+        "speaker": "Temari",
+        "phrase": "Sharpen your kama at sunset."
+    },
+    {
+        "id": "240",
+        "speaker": "Temari",
+        "phrase": "*to Lee* Get yourself and that loser out of my way."
+    },
+    {
+        "id": "241",
+        "speaker": "Temari",
+        "phrase": "*to Shikamaru* You are awfully fragile. What kind of man are you?"
+    },
+    {
+        "id": "242",
+        "speaker": "Temari",
+        "phrase": "Wasn't much of a match...kinda boring."
+    },
+    {
+        "id": "243",
+        "speaker": "Gaara",
+        "phrase": "He was the one who taught me to deepen my bond with my people. Thanks to him, they will overcome this disaster and grow even stronger from it."
+    },
+    {
+        "id": "244",
+        "speaker": "Gaara",
+        "phrase": "This is where it all starts for me. Starting with this small bond. I too want to become someone who is needed, instead of a weapon that is feared. And as the Kazekage of Sunagakure."
+    },
+    {
+        "id": "245",
+        "speaker": "Gaara",
+        "phrase": "I know him well. He takes too many risks when it comes to his friends...that's why."
+    },
+    {
+        "id": "246",
+        "speaker": "Gaara",
+        "phrase": "*to Naruto* I think of you as a friend. I used to think friend was just another word... Nothing more, I realized what was important was the word's meaning."
+    },
+    {
+        "id": "247",
+        "speaker": "Gaara",
+        "phrase": "*to Naruto* If you're truly prepared to take up the mantle of a Kage, you know what you have to do."
+    },
+    {
+        "id": "248",
+        "speaker": "Gaara",
+        "phrase": "Peace under an illusion is not a true peace. It's only meaningful if the real world manages to accomplish it."
+    },
+    {
+        "id": "249",
+        "speaker": "Gaara",
+        "phrase": "When did you forsake yourselves?"
+    },
+    {
+        "id": "250",
+        "speaker": "Gaara",
+        "phrase": "Up until now, I feel that is what he taught me."
+    },
+    {
+        "id": "251",
+        "speaker": "Gaara",
+        "phrase": "Perhaps the companionship of an evil person is preferable to loneliness."
+    },
+    {
+        "id": "252",
+        "speaker": "Gaara",
+        "phrase": "You're the same then. When you feel the honor of your idol under scrutiny... you become enraged, as if it were your own honor being questioned. The more precious your idol is to you... the harder you fight for him."
+    },
+    {
+        "id": "253",
+        "speaker": "Gaara",
+        "phrase": "I shall kill you. I will not cease to exist."
+    },
+    {
+        "id": "254",
+        "speaker": "Gaara",
+        "phrase": "*to Sasuke* You have the same eyes as I do...the eyes, that long for strength... Just like mine. Your eyes tell me how badly you wish to kill the one who put you through the hell called loneliness."
+    },
+    {
+        "id": "255",
+        "speaker": "Gaara",
+        "phrase": "I am a relic they want to get rid of, then there is no more a splendid universe than this one..."
+    },
+    {
+        "id": "256",
+        "speaker": "Gaara",
+        "phrase": "The corpse's bitter crimson tears flow and mingle with the endless sand, filling the chaos within me - and making me stronger."
+    },
+    {
+        "id": "257",
+        "speaker": "Gaara",
+        "phrase": "I finally understand... I'm alone. I won't believe in anyone, or love anyone. I'm alone."
+    },
+    {
+        "id": "258",
+        "speaker": "Gaara",
+        "phrase": "What does pain feel like?"
+    },
+    {
+        "id": "259",
+        "speaker": "Anko Mitarashi",
+        "phrase": "I wasn't cast aside. It was my choice, and mine alone."
+    },
+    {
+        "id": "260",
+        "speaker": "Anko Mitarashi",
+        "phrase": "*to Orochimaru* But why? How could you do this!? I don't get it, I've looked up to you more than anyone in the world!"
+    },
+    {
+        "id": "261",
+        "speaker": "Anko Mitarashi",
+        "phrase": "*about Sasuke* I don't care what the heck he is! If he stays, he...should be dead."
+    },
+    {
+        "id": "262",
+        "speaker": "Anko Mitarashi",
+        "phrase": "*to Naruto* Tough guys like you usually leave their blood all over this forest."
+    },
+    {
+        "id": "263",
+        "speaker": "Might Guy",
+        "phrase": "He was a worthy opponent! A man who lived and died like a real shinobi! Kisame Hoshigaki! I'll remember that name for the rest of my life!"
+    },
+    {
+        "id": "264",
+        "speaker": "Might Guy",
+        "phrase": "*to Kisame* A failure will win even at the cost of their own life!"
+    },
+    {
+        "id": "265",
+        "speaker": "Might Guy",
+        "phrase": "That's it, Lee! Let the power of youth explode!!"
+    },
+    {
+        "id": "266",
+        "speaker": "Might Guy",
+        "phrase": "When a man struts around like a peacock, he should keep his promises. Even if it kills him."
+    },
+    {
+        "id": "267",
+        "speaker": "Might Guy",
+        "phrase": "Gahh! Kakashi! You make me so mad! Why do you have to act so cool?!"
+    },
+    {
+        "id": "268",
+        "speaker": "Might Guy",
+        "phrase": "You have the gift of perseverance, and that's what makes you a genius too!"
+    },
+    {
+        "id": "269",
+        "speaker": "Might Guy",
+        "phrase": "Don't let anything stir you up the path you have drawn for yourself! Forge ahead in the end! Stick to it Lee! Make me proud! Be everything you can be!"
+    },
+    {
+        "id": "270",
+        "speaker": "Might Guy",
+        "phrase": "You worked hard Lee, my nindō has been to train you to become the most splendid ninja possible. That's a promise!"
+    },
+    {
+        "id": "271",
+        "speaker": "Might Guy",
+        "phrase": "*to Neji* I was a failure when I was your age, the elite genius. It's only a matter of time until Lee finally surpasses you!"
+    },
+    {
+        "id": "272",
+        "speaker": "Might Guy",
+        "phrase": "People call me the Leaf's Noble Gentleman!"
+    },
+    {
+        "id": "273",
+        "speaker": "Might Guy",
+        "phrase": "That's it, Lee! Run...run towards the setting sun!... But don't mess up your hair!"
+    },
+    {
+        "id": "274",
+        "speaker": "Might Guy",
+        "phrase": "Look deep into my eyes and accept my sincere apology! Also notice my handsome manly features."
+    },
+    {
+        "id": "275",
+        "speaker": "Might Guy",
+        "phrase": "*to Kakashi* What is with your attitude?! We'll never be young like this again!"
+    },
+    {
+        "id": "276",
+        "speaker": "Shino Aburame",
+        "phrase": "I kind of hate him."
+    },
+    {
+        "id": "277",
+        "speaker": "Shino Aburame",
+        "phrase": "If you fight me, you won't be able to recover. Forfeit and withdraw."
+    },
+    {
+        "id": "278",
+        "speaker": "Shino Aburame",
+        "phrase": "Never underestimate your opponent, no matter how small they may seem."
+    },
+    {
+        "id": "279",
+        "speaker": "Shino Aburame",
+        "phrase": "Even if it's been a while, you should remember your comrades faces. Why? Because otherwise you will hurt their feelings when they call out to you."
+    },
+    {
+        "id": "280",
+        "speaker": "Shino Aburame",
+        "phrase": "I hate explaining the same thing twice."
+    },
+    {
+        "id": "281",
+        "speaker": "Kiba Inuzuka",
+        "phrase": "If I kick enough asses I might even end up Hokage!"
+    },
+    {
+        "id": "282",
+        "speaker": "Kiba Inuzuka",
+        "phrase": "Let's die together."
+    },
+    {
+        "id": "283",
+        "speaker": "Kiba Inuzuka",
+        "phrase": "*to Naruto* You? Hokage? You can't even beat me! No-one's deluded enough to think that you have what it takes to become the next Hokage, though... I'll become Hokage in your place!"
+    },
+    {
+        "id": "284",
+        "speaker": "Kiba Inuzuka",
+        "phrase": "Don't think you can run away from my nose."
+    },
+    {
+        "id": "285",
+        "speaker": "Kiba Inuzuka",
+        "phrase": "Heh, but I'm always up for getting wild."
+    },
+    {
+        "id": "286",
+        "speaker": "Kiba Inuzuka",
+        "phrase": "Yahoo! Akamaru, let's do this!"
+    },
+    {
+        "id": "287",
+        "speaker": "Chouji Akimichi",
+        "phrase": "I'm gonna eat until I can eat no more!"
+    },
+    {
+        "id": "288",
+        "speaker": "Chouji Akimichi",
+        "phrase": "I can't forgive you for calling me fat! But even more than that... Not just for stealing the last chip... or calling me fat... most importantly I won't forgive anyone who insults my best friend!"
+    },
+    {
+        "id": "289",
+        "speaker": "Chouji Akimichi",
+        "phrase": "Fat!? I'm big boned!"
+    },
+    {
+        "id": "290",
+        "speaker": "Chouji Akimichi",
+        "phrase": "*to Shikamaru* I won't let even YOU eat the last barbecue chip!"
+    },
+    {
+        "id": "291",
+        "speaker": "Nara Shikamaru",
+        "phrase": "My master entrusted me with a lot, I wanna be as cool as them."
+    },
+    {
+        "id": "292",
+        "speaker": "Nara Shikamaru",
+        "phrase": "*about Temari* Subtle as a rhino... she might even be scarier than my mom."
+    },
+    {
+        "id": "293",
+        "speaker": "Nara Shikamaru",
+        "phrase": "*about women, I wouldn't want to know what you were like before."
+    },
+    {
+        "id": "294",
+        "speaker": "Nara Shikamaru",
+        "phrase": "*about girls* C'mon. You know what they're like. You can never figure them out. You never know where you could stand with them. The smallest things could put you in their bad side. Always playing little mind games with you. Trying to make you do what they want. They're just a big pain basically."
+    },
+    {
+        "id": "295",
+        "speaker": "Nara Shikamaru",
+        "phrase": "When you have that kid, I'll have to protect it. So I've gotta grow up to be a cool adult too!"
+    },
+    {
+        "id": "296",
+        "speaker": "Nara Shikamaru",
+        "phrase": "We're not stupid enough to go out there planning to die."
+    },
+    {
+        "id": "297",
+        "speaker": "Nara Shikamaru",
+        "phrase": "*to Hidan* That pathetic Lord Jashin or whatever isn't your God anymore. I am. The only one bringing down vengeance is me."
+    },
+    {
+        "id": "298",
+        "speaker": "Nara Shikamaru",
+        "phrase": "*to Hidan* See, you and I have different beliefs. I believe in the Will of Fire."
+    },
+    {
+        "id": "299",
+        "speaker": "Nara Shikamaru",
+        "phrase": "Ughh. Great. What's the point in setting the alarm if I'm going to wake up before it goes off? What a total waste. Now I've gotta shut it off but I don't feel like moving. But if I don't shut it off it will just keep ringing and ringing. Sigh. It makes me tired just thinking about the whole thing. Some mornings are such a drag..."
+    },
+    {
+        "id": "300",
+        "speaker": "Nara Shikamaru",
+        "phrase": "How many times do I have to tell you? The first move is always a feint."
+    },
+    {
+        "id": "301",
+        "speaker": "Nara Shikamaru",
+        "phrase": "I never really liked Sasuke, I'm responsible for your lives too."
+    },
+    {
+        "id": "302",
+        "speaker": "Nara Shikamaru",
+        "phrase": "Sometimes I wish I was just a cloud, floating along."
+    },
+    {
+        "id": "303",
+        "speaker": "Nara Shikamaru",
+        "phrase": "*about Ino* What a drag... I say a single thing against Sasuke, and I have to get that evil look from her eyes."
+    },
+    {
+        "id": "304",
+        "speaker": "Ino Yamanaka",
+        "phrase": "Who're you calling pig, you billboard brow?!"
+    },
+    {
+        "id": "305",
+        "speaker": "Ino Yamanaka",
+        "phrase": "*to Sakura* You bloomed into a beautiful flower."
+    },
+    {
+        "id": "306",
+        "speaker": "Ino Yamanaka",
+        "phrase": "*talking about Naruto* I could almost fall for him."
+    },
+    {
+        "id": "307",
+        "speaker": "Rock Lee",
+        "phrase": "Wise words, Guy sensei! So simple but filled with such profound meaning!"
+    },
+    {
+        "id": "308",
+        "speaker": "Rock Lee",
+        "phrase": "The lotus of the Leaf Village blooms twice."
+    },
+    {
+        "id": "309",
+        "speaker": "Rock Lee",
+        "phrase": "I want to show I can be a splendid ninja as well even if I don't have ninjutsu or genjutsu... I want to prove it to the whole world!"
+    },
+    {
+        "id": "310",
+        "speaker": "Rock Lee",
+        "phrase": "Sakura, please go out with me! I'll protect you with my life!"
+    },
+    {
+        "id": "311",
+        "speaker": "Rock Lee",
+        "phrase": "A rock thrown at a pole will not hit, it will hit! That is the law I used!"
+    },
+    {
+        "id": "312",
+        "speaker": "Tenten",
+        "phrase": "Amazing... The brilliance of the blade... the design. They're all beautiful! I want to take them all home!"
+    },
+    {
+        "id": "313",
+        "speaker": "Tenten",
+        "phrase": "Three members of Team Guy specializes in Close-Contact battles so I often render aid from the distance. I don't mind providing back up, but I was hoping to find new ninja tools that would enable me to fight on the front lines."
+    },
+    {
+        "id": "314",
+        "speaker": "Tenten",
+        "phrase": "You're gonna fight Sasuke alone? And you think all of us are just gonna stand here and let you?!"
+    },
+    {
+        "id": "315",
+        "speaker": "Tenten",
+        "phrase": "Let's just say I don't like being kept in the dark!"
+    },
+    {
+        "id": "316",
+        "speaker": "Tenten",
+        "phrase": "I'm not running away and I'm not giving up. I will save this child."
+    },
+    {
+        "id": "317",
+        "speaker": "Tenten",
+        "phrase": "I won't let that happen. You're not getting off that easy. No way! The people you and Raiga killed, ok?! You're gonna live and you're going to take some responsibility for all those people's lives you cut short!"
+    },
+    {
+        "id": "318",
+        "speaker": "Tenten",
+        "phrase": "I can't stand weak and indecisive people!"
+    },
+    {
+        "id": "319",
+        "speaker": "Tenten",
+        "phrase": "It's not because they're girls you know, Neji. It's just that those two are using kid gloves. It doesn't matter if you're a man or woman in battle."
+    },
+    {
+        "id": "320",
+        "speaker": "Hiruzen Sarutobi",
+        "phrase": "*last words* When the tree leaves dance, tree leaves shall bud anew."
+    },
+    {
+        "id": "321",
+        "speaker": "Hiruzen Sarutobi",
+        "phrase": "It is a place where every year shinobi are born, you still will fail. I am only one of a long line. I carry this title in trust for those Hokage who came before and those who will come after. I am the Third Hokage!"
+    },
+    {
+        "id": "322",
+        "speaker": "Hiruzen Sarutobi",
+        "phrase": "I wonder...do you have it, young as you are... the Will of Fire?"
+    },
+    {
+        "id": "323",
+        "speaker": "Hiruzen Sarutobi",
+        "phrase": "He has combined Shadow Clone with his own invention, too."
+    },
+    {
+        "id": "324",
+        "speaker": "Tsunade",
+        "phrase": "I am the Fifth Hokage... You've trampled on our ancestors treasure...their dream...and you will pay the price! As the Hokage, I will put a stop to you here and now!"
+    },
+    {
+        "id": "325",
+        "speaker": "Tsunade",
+        "phrase": "*talking to the advisers* People like Jiraiya...and Sarutobi, believed in you and entrusted you with the village. Now it's your turn to believe in these children and entrust it to them!"
+    },
+    {
+        "id": "326",
+        "speaker": "Tsunade",
+        "phrase": "Grow up... Death comes with being a shinobi. There are times when death is hard to accept, there's no future..."
+    },
+    {
+        "id": "327",
+        "speaker": "Tsunade",
+        "phrase": "*to Orochimaru about Naruto* I will die before I let you touch him!"
+    },
+    {
+        "id": "328",
+        "speaker": "Tsunade",
+        "phrase": "Why am I putting my life on the line? Because now... I am the Fifth Hokage of the Village Hidden in the Leaves!"
+    },
+    {
+        "id": "329",
+        "speaker": "Tsunade",
+        "phrase": "Jiraiya, are you the one who taught him the Rasengan? Are you acting like a teacher by teaching him something he can't master? Don't give him any ideas! That's why this kid likes to daydream that he's going to become Hokage someday."
+    },
+    {
+        "id": "330",
+        "speaker": "Tsunade",
+        "phrase": "*about to fight Naruto* One of the Legendary Sannin taking on a snot-nosed Genin... I oughta be ashamed of myself."
+    },
+    {
+        "id": "331",
+        "speaker": "Kisame Hoshigaki",
+        "phrase": "*last words* Itachi-san... It seems that in the end... I'm not so terrible after all."
+    },
+    {
+        "id": "332",
+        "speaker": "Kisame Hoshigaki",
+        "phrase": "I get stronger in direct proportion to how strong my opponent is. I do not tire, and cannot be defeated."
+    },
+    {
+        "id": "333",
+        "speaker": "Kisame Hoshigaki",
+        "phrase": "*to Asuma* My massive blade, doesn't slice... It shreds to ribbons!"
+    },
+    {
+        "id": "334",
+        "speaker": "Kisame Hoshigaki",
+        "phrase": "Sharks start out as eggs, viewing everything they see as nothing more than prey. As of today you and I are fellow members of Akatsuki. So be careful... of me."
+    },
+    {
+        "id": "335",
+        "speaker": "Kisame Hoshigaki",
+        "phrase": "I knew that from the first time I had to kill my comrades... Kill a Kiri ninja as a Kiri ninja. What does that make me? Am I a friend or foe? What is my purpose and my position? Where do I go? Where can I go? I'm well aware that my entire life has been a one giant lie."
+    },
+    {
+        "id": "336",
+        "speaker": "Zabuza Momochi",
+        "phrase": "*to Kakashi* I died as a human!"
+    },
+    {
+        "id": "337",
+        "speaker": "Zabuza Momochi",
+        "phrase": "*last words* You were always at my side, Haku."
+    },
+    {
+        "id": "338",
+        "speaker": "Zabuza Momochi",
+        "phrase": "Even the unremarkable Demon of the Hidden Mist can die and become a real Demon in hell!"
+    },
+    {
+        "id": "339",
+        "speaker": "Zabuza Momochi",
+        "phrase": "Uh uh...I won't be joining Haku. Where he's gone I cannot follow. We wouldn't be welcome where Haku's gone to. Hell's where WE'RE going, Gatō!"
+    },
+    {
+        "id": "340",
+        "speaker": "Zabuza Momochi",
+        "phrase": "Well? Cat got your tongue? Are you so surprised to discover that I'm human? Even shinobi are human. No matter how hard we try, I have failed."
+    },
+    {
+        "id": "341",
+        "speaker": "Zabuza Momochi",
+        "phrase": "*to Naruto* Your words cut deep, deeper than any blade."
+    },
+    {
+        "id": "342",
+        "speaker": "Zabuza Momochi",
+        "phrase": "When you've hovered between life and death so many times that it doesn't faze you, then you may have earned the title ninja."
+    },
+    {
+        "id": "343",
+        "speaker": "Zabuza Momochi",
+        "phrase": "You're right. Those little people and their little dreams, why should I care about them?! I have my own dream!"
+    },
+    {
+        "id": "344",
+        "speaker": "Zabuza Momochi",
+        "phrase": "When I was your age, my hands were already soaked in blood..."
+    },
+    {
+        "id": "345",
+        "speaker": "Hinata Hyuuga",
+        "phrase": "I used to always cry and give up... I made many wrong turns... But you... You helped me find the right path... I always chased after you... I wanted to catch up to you... I wanted to walk beside you all the time... I just wanted to be with you... You changed me! Your smile is what saved me! That is why I'm not afraid to die protecting you! Because... I love you..."
+    },
+    {
+        "id": "346",
+        "speaker": "Hinata Hyuuga",
+        "phrase": "I won't let you lay another finger on Naruto!"
+    },
+    {
+        "id": "347",
+        "speaker": "Hinata Hyuuga",
+        "phrase": "*to Naruto* You make mistakes... but... because of those mistakes... you get the strength to stand up to them. That's why I think you are truly strong."
+    },
+    {
+        "id": "348",
+        "speaker": "Hinata Hyuuga",
+        "phrase": "*to Naruto* When I watch you, like I can do anything - that even I am worth something."
+    },
+    {
+        "id": "349",
+        "speaker": "Hinata Hyuuga",
+        "phrase": "You're wrong, Neji... Because I can see that you are suffering more than me... You are the one who is confused and suffering inside the fate of the head and branch families."
+    },
+    {
+        "id": "350",
+        "speaker": "Hinata Hyuuga",
+        "phrase": "Was I able to change myself...even a little, N-Naruto-kun?"
+    },
+    {
+        "id": "351",
+        "speaker": "Hinata Hyuuga",
+        "phrase": "I will never go back on my word, because that too is my ninja way!"
+    },
+    {
+        "id": "352",
+        "speaker": "Haku",
+        "phrase": "By the way, I'm a boy."
+    },
+    {
+        "id": "353",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "My name is Uzumaki Naruto. I like ramen. I hate the three minutes you have to wait while the water boils. And my dream is to one day become a Hokage. Then everyone will have to respect me at last."
+    },
+    {
+        "id": "354",
+        "speaker": "Kankuro",
+        "phrase": "Sasori...your strength came because of your soul, not a worthless nobody who lets someone else pull the strings."
+    },
+    {
+        "id": "355",
+        "speaker": "Kankuro",
+        "phrase": "How well or poorly we execute our ambush will have a huge impact on this war and how many casualties we suffer. If you wanna protect your friends and family, the only thing you should be thinking about is how to make this operation a success!"
+    },
+    {
+        "id": "356",
+        "speaker": "Kankuro",
+        "phrase": "*to Naruto* Aww, am I right?"
+    },
+    {
+        "id": "357",
+        "speaker": "Kankuro",
+        "phrase": "I'll show you the real power of the battle puppet Crow."
+    },
+    {
+        "id": "358",
+        "speaker": "Kankuro",
+        "phrase": "I can't back down when they show me no respect."
+    },
+    {
+        "id": "359",
+        "speaker": "Kankuro",
+        "phrase": "*thinking about Naruto* This brat...I'm going to kill him."
+    },
+    {
+        "id": "360",
+        "speaker": "Itachi Uchiha",
+        "phrase": "Growth occurs when one goes beyond one's limits. Realizing that is also part of training."
+    },
+    {
+        "id": "361",
+        "speaker": "Itachi Uchiha",
+        "phrase": "*last words* Forgive me Sasuke... It ends with this."
+    },
+    {
+        "id": "362",
+        "speaker": "Itachi Uchiha",
+        "phrase": "*to Kisame* Those who turn their hands against their comrades are sure to die a terrible death. Be prepared."
+    },
+    {
+        "id": "363",
+        "speaker": "Itachi Uchiha",
+        "phrase": "The people of this clan are all the same. You focus on the trivial, in this fog of ignorance. How can we evolve when regulation is all we know?"
+    },
+    {
+        "id": "364",
+        "speaker": "Itachi Uchiha",
+        "phrase": "I've had enough, there's no hope left for this pathetic clan."
+    },
+    {
+        "id": "365",
+        "speaker": "Itachi Uchiha",
+        "phrase": "Don't cry, no matter what happens."
+    },
+    {
+        "id": "366",
+        "speaker": "Itachi Uchiha",
+        "phrase": "You and I are flesh and blood. I'm always going to be there for you, even if it's only as an obstacle for you to overcome. Even if you do hate me. That's what big brothers are for."
+    },
+    {
+        "id": "367",
+        "speaker": "Obito Uchiha",
+        "phrase": "*last words* Just when me and Kakashi were becoming friends... I couldn't bring myself to confess to Rin... I wish I had more time with everyone..."
+    },
+    {
+        "id": "368",
+        "speaker": "Obito Uchiha",
+        "phrase": "*to Kakashi* I'm about to... die... but I'll become your eye."
+    },
+    {
+        "id": "369",
+        "speaker": "Obito Uchiha",
+        "phrase": "I believe the White Fang is a true hero!"
+    },
+    {
+        "id": "370",
+        "speaker": "Obito Uchiha",
+        "phrase": "*to Kakashi* I am Uchiha Obito and I will surpass you once I awaken my Sharingan!"
+    },
+    {
+        "id": "371",
+        "speaker": "Sasuke Uchiha",
+        "phrase": "I have already awakened."
+    },
+    {
+        "id": "372",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "I don't understand what's going on, but I'll just pretend that I do. *nods head in agreement*"
+    },
+    {
+        "id": "373",
+        "speaker": "Kabuto Yakushi",
+        "phrase": "*to Naruto* Finding a new me, that is the lesson you taught me."
+    },
+    {
+        "id": "374",
+        "speaker": "Kabuto Yakushi",
+        "phrase": "I decided I wished to be like you as well, one stronger than Orochimaru-sama himself!"
+    },
+    {
+        "id": "375",
+        "speaker": "Kabuto Yakushi",
+        "phrase": "Hehehe...you can't beat me. You have no skills, unlike Sasuke."
+    },
+    {
+        "id": "376",
+        "speaker": "Kabuto Yakushi",
+        "phrase": "Little kids think life is so easy. That's why they go on and on about their dreams. That's why they never give up."
+    },
+    {
+        "id": "377",
+        "speaker": "Kabuto Yakushi",
+        "phrase": "Oh you look so beautiful... We're not here for a picnic you know."
+    },
+    {
+        "id": "378",
+        "speaker": "Sasuke Uchiha",
+        "phrase": "Don't worry, this will be over in five seconds."
+    },
+    {
+        "id": "379",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "We're just some normal ninja, we don't want to see what's under your mask."
+    },
+    {
+        "id": "380",
+        "speaker": "Iruka Umino",
+        "phrase": "*to Naruto* Lord Jiraiya only had praise for you. He was always boasting about you, one of the Legendary Sannin...acknowledged you as his promising student!"
+    },
+    {
+        "id": "381",
+        "speaker": "Iruka Umino",
+        "phrase": "So I acted like an idiot. It was tough, was it tough Naruto??"
+    },
+    {
+        "id": "382",
+        "speaker": "Itachi Uchiha",
+        "phrase": "We are humans, don't you think?"
+    },
+    {
+        "id": "383",
+        "speaker": "Itachi Uchiha",
+        "phrase": "You are weak. Why are you so weak? Because you lack... hatred."
+    },
+    {
+        "id": "384",
+        "speaker": "Rock Lee",
+        "phrase": "If I can't do 400 push-ups, I'll do 2000 jump ropes!"
+    },
+    {
+        "id": "385",
+        "speaker": "Rock Lee",
+        "phrase": "I am the Handsome Devil of the Hidden Leaf Village! My name is Rock Lee!"
+    },
+    {
+        "id": "386",
+        "speaker": "Rock Lee",
+        "phrase": "Guy-sensei is the coolest! He practically GLOWS with cool!"
+    },
+    {
+        "id": "387",
+        "speaker": "Jiraiya",
+        "phrase": "Stop calling me Ero-sennin!!"
+    },
+    {
+        "id": "388",
+        "speaker": "Jiraiya",
+        "phrase": "Baka, baka!! They found out I was peeking! Now my research is ruined!"
+    },
+    {
+        "id": "389",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "The only thing that can keep a fire from dying and give it more power, is wind."
+    },
+    {
+        "id": "390",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "If I become as strong as you, will I really become like you? To die as a tool...that's...that's just too sad."
+    },
+    {
+        "id": "391",
+        "speaker": "Jiraiya",
+        "phrase": "*last words* The Tale of Naruto Uzumaki... yes... that has a nice ring to it."
+    },
+    {
+        "id": "392",
+        "speaker": "Jiraiya",
+        "phrase": "There, that ending...was a little better. The frog at the bottom of the well drifts off into the great ocean. Heh heh ...yep. Pretty damn honorable... pretty damn honorable..."
+    },
+    {
+        "id": "393",
+        "speaker": "Jiraiya",
+        "phrase": "*to Naruto* I think we all have to acknowledge you. Gamatatsu, Tsunade...and I... We all admit you've worked really hard. But I wonder what's pushing you forward."
+    },
+    {
+        "id": "394",
+        "speaker": "Jiraiya",
+        "phrase": "Never go back on your word...and never give up. That's your ninja way...and as your mentor ... I have no business whining! Because the student's ninja way should be the master's too! Isn't that so, Naruto?!"
+    },
+    {
+        "id": "395",
+        "speaker": "Jiraiya",
+        "phrase": "*to Orochimaru about Sasuke* Because it's no fun to train a genius!"
+    },
+    {
+        "id": "396",
+        "speaker": "Jiraiya",
+        "phrase": "*to Orochimaru* You're wrong, is the guts to never give up."
+    },
+    {
+        "id": "397",
+        "speaker": "Jiraiya",
+        "phrase": "*to Naruto* Even I can tell that hatred is spreading. I wanted to do something about it...but I don't know what. I believe... that someday the day will come when people truly understand one another!! If I can't find the answer, it will be up to you to do it!!"
+    },
+    {
+        "id": "398",
+        "speaker": "Jiraiya",
+        "phrase": "When people get hurt, they become hated and racked with guilt. But knowing that pain allows people to be kind. Pain allows people to grow... and how you grow is up to you."
+    },
+    {
+        "id": "399",
+        "speaker": "Jiraiya",
+        "phrase": "Wherever someone thinks of you, that's where home is."
+    },
+    {
+        "id": "400",
+        "speaker": "Jiraiya",
+        "phrase": "I'm not a pervert... I'm a super pervert!"
+    },
+    {
+        "id": "401",
+        "speaker": "Jiraiya",
+        "phrase": "Die! Just Die! You have no talent at all!!"
+    },
+    {
+        "id": "402",
+        "speaker": "Jiraiya",
+        "phrase": "Shut up you flat-chested bitch Tsunade!"
+    },
+    {
+        "id": "403",
+        "speaker": "Neji Hyuuga",
+        "phrase": "You are the strongest enemy I have ever fought."
+    },
+    {
+        "id": "404",
+        "speaker": "Neji Hyuuga",
+        "phrase": "No one can determine another's destiny."
+    },
+    {
+        "id": "405",
+        "speaker": "Neji Hyuuga",
+        "phrase": "The heavens will not allow a pawn who can only seek victory at the cost of himself to advance..."
+    },
+    {
+        "id": "406",
+        "speaker": "Neji Hyuuga",
+        "phrase": "*about Gai* He's so childish. He acts like a seven-year-old!"
+    },
+    {
+        "id": "407",
+        "speaker": "Neji Hyuuga",
+        "phrase": "*about Lee and Gai* As usual, I can't keep up with their craziness."
+    },
+    {
+        "id": "408",
+        "speaker": "Neji Hyuuga",
+        "phrase": "Because Naruto... you saved me from the darkness."
+    },
+    {
+        "id": "409",
+        "speaker": "Neji Hyuuga",
+        "phrase": "All this time I've been called a genius, so I cannot lose."
+    },
+    {
+        "id": "410",
+        "speaker": "Neji Hyuuga",
+        "phrase": "Sasuke's out there right now, heading toward Orochimaru. We can't allow such evil to take someone from our village... that is not our way."
+    },
+    {
+        "id": "411",
+        "speaker": "Neji Hyuuga",
+        "phrase": "Naruto... Sometimes, your eyes are even better than mine."
+    },
+    {
+        "id": "412",
+        "speaker": "Neji Hyuuga",
+        "phrase": "Father, the birds are flying freely today... They look so happy."
+    },
+    {
+        "id": "413",
+        "speaker": "Neji Hyuuga",
+        "phrase": "There's no method but death to escape this horrible curse."
+    },
+    {
+        "id": "414",
+        "speaker": "Neji Hyuuga",
+        "phrase": "*to Naruto* These eyes of mine show me many things. One thing they've shown me...people's limitations are set, and unchangeable. Only a fool wastes his time trying to become something he can never be!"
+    },
+    {
+        "id": "415",
+        "speaker": "Neji Hyuuga",
+        "phrase": "Do you understand now? You have no way of beating me!"
+    },
+    {
+        "id": "416",
+        "speaker": "Neji Hyuuga",
+        "phrase": "Once a failure, always a failure. You can't change that."
+    },
+    {
+        "id": "417",
+        "speaker": "Neji Hyuuga",
+        "phrase": "Right now, Naruto."
+    },
+    {
+        "id": "418",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "Try it trash! I'll return the pain a thousand times over!"
+    },
+    {
+        "id": "419",
+        "speaker": "Jiraiya",
+        "phrase": "I am, you only need to flash that sexiness to have women fall at your feet."
+    },
+    {
+        "id": "420",
+        "speaker": "Ino Yamanaka",
+        "phrase": "WHAT?! Why wasn't he affected by my sexiness?!"
+    },
+    {
+        "id": "421",
+        "speaker": "Ino Yamanaka",
+        "phrase": "SHIKAMARU! Beat her up with a 16 HIT COMBO!"
+    },
+    {
+        "id": "422",
+        "speaker": "Ino Yamanaka",
+        "phrase": "There's no meaning to a flower unless it blooms."
+    },
+    {
+        "id": "423",
+        "speaker": "Gaara",
+        "phrase": "A soul needs a purpose to live...and so I concluded that my purpose was to kill everyone besides myself. I felt alive..."
+    },
+    {
+        "id": "424",
+        "speaker": "Gaara",
+        "phrase": "I fight for my sake only and live to love no one but myself."
+    },
+    {
+        "id": "425",
+        "speaker": "Gaara",
+        "phrase": "*young Gaara attempts to slash his wrist* It's no use, the sand gets in the way."
+    },
+    {
+        "id": "426",
+        "speaker": "Madara Uchiha",
+        "phrase": "The concept of hope is nothing more than giving up. A word that holds no true meaning."
+    },
+    {
+        "id": "427",
+        "speaker": "Madara Uchiha",
+        "phrase": "The Uchiha is a clan destined for revenge..."
+    },
+    {
+        "id": "428",
+        "speaker": "Madara Uchiha",
+        "phrase": "*to Minato, it's part of my plan...to start a war...to bring peace..."
+    },
+    {
+        "id": "429",
+        "speaker": "Madara Uchiha",
+        "phrase": "It will be a new world... A world of truth, not lies."
+    },
+    {
+        "id": "430",
+        "speaker": "Madara Uchiha",
+        "phrase": "When a man learns to love, he must bear the risk of hatred."
+    },
+    {
+        "id": "431",
+        "speaker": "Hatake Kakashi",
+        "phrase": "*to Sasuke* No matter how far Orochimaru fell, he still loved him... Now I know how the Third Hokage felt."
+    },
+    {
+        "id": "432",
+        "speaker": "Hatake Kakashi",
+        "phrase": "*to Sakumo* Regardless of what happened, you did the best you could. I understand that now...you broke the rules for all our sakes - I'm proud of you now..."
+    },
+    {
+        "id": "433",
+        "speaker": "Hatake Kakashi",
+        "phrase": "*to Naruto* You've become as strong...if not stronger than me."
+    },
+    {
+        "id": "434",
+        "speaker": "Hatake Kakashi",
+        "phrase": "Like the fate of the two who founded the village of Konoha... Naruto and Sasuke...your fates are like theirs."
+    },
+    {
+        "id": "435",
+        "speaker": "Hatake Kakashi",
+        "phrase": "This place makes me think about the mistakes I've made in the past... and I've made a lot."
+    },
+    {
+        "id": "436",
+        "speaker": "Hatake Kakashi",
+        "phrase": "*to Orochimaru* I don't care if you are one of the legendary Sannin, I swear take one more step towards Sasuke and one of us will die here!"
+    },
+    {
+        "id": "437",
+        "speaker": "Hatake Kakashi",
+        "phrase": "I'm Kakashi Hatake. Things I like and things I hate...I don't feel like telling you that. My dreams for the future...never really thought about it. As for my hobbies...I have lots of hobbies."
+    },
+    {
+        "id": "438",
+        "speaker": "Rock Lee",
+        "phrase": "A genius, that is my ninja way!"
+    },
+    {
+        "id": "439",
+        "speaker": "Orochimaru",
+        "phrase": "*to Sasuke* I refuse...to let this happen! I am Orochimaru! I am immortal! I will not die here! Destined to discover the true meaning behind everything! Destined to take control of everything in this world!!"
+    },
+    {
+        "id": "440",
+        "speaker": "Orochimaru",
+        "phrase": "When there is a true desire in the heart and that desire is strong... That is when he finds real strength that even he did not know he had!"
+    },
+    {
+        "id": "441",
+        "speaker": "Orochimaru",
+        "phrase": "Everything will be mine."
+    },
+    {
+        "id": "442",
+        "speaker": "Orochimaru",
+        "phrase": "*about Sasuke* When I watch this boy, and think how ridiculous it was."
+    },
+    {
+        "id": "443",
+        "speaker": "Orochimaru",
+        "phrase": "*to Sasuke* How impressive. A thousand foes stand before you and you don't even bat an eyelid."
+    },
+    {
+        "id": "444",
+        "speaker": "Orochimaru",
+        "phrase": "*talking about Naruto* This child... intrigues me to no end!"
+    },
+    {
+        "id": "445",
+        "speaker": "Orochimaru",
+        "phrase": "Hate only gives birth to even more hate."
+    },
+    {
+        "id": "446",
+        "speaker": "Orochimaru",
+        "phrase": "I want to obtain all the jutsu and gain a true understanding of everything in this world. The first one to mix blue and yellow called the new color green. I want to do something similar to that. If blue is the chakra, it would require an eternity. Only one who understands everything after spending such time on this can be fittingly called the Ultimate Being."
+    },
+    {
+        "id": "447",
+        "speaker": "Orochimaru",
+        "phrase": "*to Kabuto, talking about Tsunade) The best medicines always taste bitter."
+    },
+    {
+        "id": "448",
+        "speaker": "Orochimaru",
+        "phrase": "There probably isn't any meaning in life. Perhaps you can find something interesting to do while you are alive. Like how you found that flower. Like how I found you."
+    },
+    {
+        "id": "449",
+        "speaker": "Sakura Haruno",
+        "phrase": "Naruto's here because he's made up his mind. My resolve is nothing compared to his now! I'm supposed to be a ninja, but all I've ever done is lean on him and cry... I was supposed to change that... I came here and I thought I was ready. But I can't do anything... I can't say anything. The only thing that remains for me...is to believe in them!"
+    },
+    {
+        "id": "450",
+        "speaker": "Sakura Haruno",
+        "phrase": "*about killing Sasuke* I... Sasuke... I... I thought I could do this..."
+    },
+    {
+        "id": "451",
+        "speaker": "Sakura Haruno",
+        "phrase": "I'm the one who made Naruto suffer the most... I've just been getting it wrong. Just been messing it up... I don't want to get it wrong anymore...don't want to screw it up anymore."
+    },
+    {
+        "id": "452",
+        "speaker": "Sakura Haruno",
+        "phrase": "A smile is the easiest way out of a difficult situation."
+    },
+    {
+        "id": "453",
+        "speaker": "Sakura Haruno",
+        "phrase": "*to Sasuke* I... I love you with all my heart!.. If you were to stay here with me, just stay with me!"
+    },
+    {
+        "id": "454",
+        "speaker": "Sakura Haruno",
+        "phrase": "I've always considered myself to be a true ninja...but those were just empty words, and all of you can watch me from the background!"
+    },
+    {
+        "id": "455",
+        "speaker": "Sakura Haruno",
+        "phrase": "*to Ino* Didn't you know? Women have to be strong in order to survive!"
+    },
+    {
+        "id": "456",
+        "speaker": "Sakura Haruno",
+        "phrase": "All I've been doing is watching you two from behind... Now, get a good look at MY back!"
+    },
+    {
+        "id": "457",
+        "speaker": "Sakura Haruno",
+        "phrase": "*talking to Sasuke* On that day, and I have friends but if you're gone... To me... It will be the same as being alone."
+    },
+    {
+        "id": "458",
+        "speaker": "Hatake Kakashi",
+        "phrase": "In the ninja world, but those who abandon their friends are worse than scum."
+    },
+    {
+        "id": "459",
+        "speaker": "Hatake Kakashi",
+        "phrase": "I won't allow my comrades to die. I'll protect you with my life. Trust me."
+    },
+    {
+        "id": "460",
+        "speaker": "Hatake Kakashi",
+        "phrase": "The next generation will always surpass the previous one. It's one of the never-ending cycles in life."
+    },
+    {
+        "id": "461",
+        "speaker": "Hatake Kakashi",
+        "phrase": "*making excuses for being late, today I got lost on the road of life."
+    },
+    {
+        "id": "462",
+        "speaker": "Hatake Kakashi",
+        "phrase": "*making excuses for being late, so I danced."
+    },
+    {
+        "id": "463",
+        "speaker": "Hatake Kakashi",
+        "phrase": "Naruto, but you'll bleed to death if you lose any more blood... Seriously..."
+    },
+    {
+        "id": "464",
+        "speaker": "Itachi Uchiha",
+        "phrase": "People live their lives bound by what they accept as correct and true. That's how they define reality. But what does it mean to be correct or true? Merely vague concepts... Their reality may all be a mirage. Can we consider them to simply be living in their own world, shaped by their beliefs?"
+    },
+    {
+        "id": "465",
+        "speaker": "Itachi Uchiha",
+        "phrase": "If you want to kill me, come before me."
+    },
+    {
+        "id": "466",
+        "speaker": "Itachi Uchiha",
+        "phrase": "You aren't even worth killing, foolish little brother."
+    },
+    {
+        "id": "467",
+        "speaker": "Sasuke Uchiha",
+        "phrase": "If you think I'm just a foolish kid ruled by his emotions, I'll slaughter everyone they ever cared about. And then maybe they'll understand what it's like to taste... a little of my hatred."
+    },
+    {
+        "id": "468",
+        "speaker": "Sasuke Uchiha",
+        "phrase": "*Talking to Naruto* Just shut up for once! What the hell do you know about it?! It's not like you ever had a family in the first place! You were on your own right from the beginning, what it feels like to lose all that?!"
+    },
+    {
+        "id": "469",
+        "speaker": "Sasuke Uchiha",
+        "phrase": "*Introducing himself to Kakashi, and kill a certain someone."
+    },
+    {
+        "id": "470",
+        "speaker": "Sasuke Uchiha",
+        "phrase": "I have long since closed my eyes... My only goal is in the darkness."
+    },
+    {
+        "id": "471",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "The pain of being alone...is not an easy one to bear. Why is it...that I can understand your pain? But...I already have many people who are important to me now...and I can't let you hurt any of them. Even if I have to kill you!"
+    },
+    {
+        "id": "472",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "I won't run away anymore... I won't go back on my word... That is my ninja way!"
+    },
+    {
+        "id": "473",
+        "speaker": "Sasuke Uchiha",
+        "phrase": "You're such a loser, Naruto."
+    },
+    {
+        "id": "474",
+        "speaker": "Sasuke Uchiha",
+        "phrase": "Are you alright, crybaby?"
+    },
+    {
+        "id": "475",
+        "speaker": "Sasuke Uchiha",
+        "phrase": "Naruto... I know you're special but, I AM MORE SPECIAL THAN YOU!"
+    },
+    {
+        "id": "476",
+        "speaker": "Deidara",
+        "phrase": "Shut up! I killed Sasuke Uchiha! And you're next, you art-hating sack of wrinkles!"
+    },
+    {
+        "id": "477",
+        "speaker": "Deidara",
+        "phrase": "*Before killing the Suna guards* Look at those fools. They have no appreciation for art. You have to feel art. And true art... is an EXPLOSION!"
+    },
+    {
+        "id": "478",
+        "speaker": "Deidara",
+        "phrase": "Art is a BANG!"
+    },
+    {
+        "id": "479",
+        "speaker": "Hidan",
+        "phrase": "Kakuzu... Could you get me my body, pleeease?"
+    },
+    {
+        "id": "480",
+        "speaker": "Sakura Haruno",
+        "phrase": "Inu pig!"
+    },
+    {
+        "id": "481",
+        "speaker": "Nara Shikamaru",
+        "phrase": "Man... What a drag..."
+    },
+    {
+        "id": "482",
+        "speaker": "Hatake Kakashi",
+        "phrase": "I'm telling you this because you don't get it. You think you get it, which is not the same as actually getting it. Get it?"
+    },
+    {
+        "id": "483",
+        "speaker": "Nara Shikamaru",
+        "phrase": "How troublesome..."
+    },
+    {
+        "id": "484",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "A true hero always arrives late."
+    },
+    {
+        "id": "485",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "If he rips my arms off, I'll kick him to death. If he rips my legs off, I'll bite him to death! If he rips my head off, I'll stare him to death! And if he gouges out my eyes, I'll curse him from beyond the grave..!"
+    },
+    {
+        "id": "486",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "I am strong because I have people to protect."
+    },
+    {
+        "id": "487",
+        "speaker": "Itachi Uchiha",
+        "phrase": "Foolish brother, and survive in an unsightly way. Run... run and cling to life."
+    },
+    {
+        "id": "488",
+        "speaker": "Obito Uchiha",
+        "phrase": "In the ninja world, those who abandon their friends are even worse than trash."
+    },
+    {
+        "id": "489",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "And my dream is to be the greatest Hokage! That way, people will stop disrespecting me and start treating me like I'm somebody. Someone important!"
+    },
+    {
+        "id": "490",
+        "speaker": "Haku",
+        "phrase": "When people are protecting something truly precious to them. They truly can become...as strong as they need to be!"
+    },
+    {
+        "id": "491",
+        "speaker": "Gaara",
+        "phrase": "Not enough... blood."
+    },
+    {
+        "id": "492",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "BELIEVE IT!!"
+    },
+    {
+        "id": "493",
+        "speaker": "Gaara",
+        "phrase": "I want to be needed, this is what I've learned from meeting and fighting Uzumaki Naruto."
+    },
+    {
+        "id": "494",
+        "speaker": "Rock Lee",
+        "phrase": "A dropout will beat a genius through hard work."
+    },
+    {
+        "id": "495",
+        "speaker": "Madara Uchiha",
+        "phrase": "Love is not necessary, power is the only true necessity."
+    },
+    {
+        "id": "496",
+        "speaker": "Itachi Uchiha",
+        "phrase": "I actually don't think something like perfection exists. That is I think why we are born able to absorb things... and by comparing ourselves with something else we can finally head in a good direction."
+    },
+    {
+        "id": "497",
+        "speaker": "Hagoromo Ōtsutsuki",
+        "phrase": "The past does not exist to remind us that the future cannot be changed. It exists to remind us what the future can be."
+    },
+    {
+        "id": "498",
+        "speaker": "Naruto Uzumaki",
+        "phrase": "There is no telling what kind of pain will come after me, I'll continue walking because that's who Naruto is!"
+    },
+    {
+        "id": "499",
+        "speaker": "Sai",
+        "phrase": "Even if I force myself to smile. It seems I'm the type of person who ends up being hated."
+    },
+    {
+        "id": "500",
+        "speaker": "Itachi Uchiha",
+        "phrase": "In this moment, I'm enlightened by my intelligence."
+    },
+    {
+        "id": "501",
+        "speaker": "Itachi Uchiha",
+        "phrase": "Knowledge and awareness are vague, and perhaps better called illusions. Everyone lives within their own subjective interpretation."
+    },
+    {
+        "id": "502",
+        "speaker": "Pain",
+        "phrase": "Learn to embrace the fear of feeling about what it's like to contemplate what it is to know true pain. Because when I had nothing and no one - I always had Pain."
+    },
+    {
+        "id": "503",
+        "speaker": "Sasuke Uchiha",
+        "phrase": "(About Sakura) Was she having fun in her little make-believe fantasy of true love? As for me, I can see no reason why she would love me."
+    },
+    {
+        "id": "504",
+        "speaker": "Madara Uchiha",
+        "phrase": "The longer you live... The more you realize that reality is just made of pain, suffering and emptiness..."
+    },
+    {
+        "id": "505",
+        "speaker": "Madara Uchiha",
+        "phrase": "It seems that you still want to dance but... You will not be able to make steps anymore."
+    },
+    {
+        "id": "506",
+        "speaker": "Madara Uchiha",
+        "phrase": "I'd be lying if I said things are going according to my plan... but beggars can't be choosers, right?"
+    },
+    {
+        "id": "507",
+        "speaker": "Madara Uchiha",
+        "phrase": "[Last words to Hashirama] As comrades, huh... well... if that's how... we... will.... *smiles*"
+    },
+    {
+        "id": "508",
+        "speaker": "Pain",
+        "phrase": "Feel pain, know pain... Shinra Tensei!"
+    }
+]
